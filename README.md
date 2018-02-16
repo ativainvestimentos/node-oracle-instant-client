@@ -7,5 +7,5 @@ Integrated Node environment with Oracle Instant Cliente for OracleDB connection 
 Add in your Dockerfile the base image
 
 ```bash
-FROM ativainvestimentos/node-oracle-instant-client
+FROM ativa/node-oracle-instant-client
 ```
