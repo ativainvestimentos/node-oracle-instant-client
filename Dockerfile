@@ -1,4 +1,4 @@
-FROM node:8.9.3
+FROM node:8.15.1-stretch-slim
 
 RUN mkdir -p /opt/oracle
 
